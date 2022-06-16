@@ -1,5 +1,6 @@
 # Variables_and_Constants
-S-6 Walter's carpet cleaning service
+S-6
+Walter's carpet cleaning service
 Charges:
 $25 per small room
 $35 per large room
