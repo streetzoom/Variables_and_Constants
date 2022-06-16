@@ -1,4 +1,5 @@
 Walter's carpet cleaning service
+    
     Charges:
         $25 per small room
         $35 per large room
@@ -9,12 +10,21 @@ Walter's carpet cleaning service
     and provide an estimate such as:
 
 Estimate for carpet cleaning service
-Number of small rooms: 3
+
+Number of small rooms: 3.
+
 Number of large rooms: 1
+
 Price per small room: $25
+
 Price per large room: $35
+
 Cost : $110
+
 Tax: $6.6
+
+
 ===============================
-Total estimate: $116.6
+
+Total estimate: $116.6          
 This estimate is valid for 30 days
