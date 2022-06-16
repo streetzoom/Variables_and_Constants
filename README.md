@@ -1,6 +1,6 @@
 # Variables_and_Constants
 S-6
-\nWalter's carpet cleaning service
+Walter's carpet cleaning service
 Charges:
 $25 per small room
 $35 per large room
